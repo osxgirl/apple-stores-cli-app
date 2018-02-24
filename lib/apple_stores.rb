@@ -1,5 +1,9 @@
-require "apple_stores/version"
+require 'nokogiri'
+require 'open-uri'
 
-module AppleStores
-  # Your code goes here...
-end
+require_relative "./apple_stores/cli"
+require_relative "./apple_stores/version"
+require_relative "./apple_stores/state"
+
+
+
