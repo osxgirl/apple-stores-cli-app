@@ -1,8 +1,9 @@
 # AppleStores
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/apple_stores`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to the Apple Store CLI Gem! This will scrape information from the Apple Retail website as well as the Apple Everyone Can Code website.
+When you run the .bin file, 2 options appear. When you select number 1 the city and phone number for the Apple Retail location populates. When you select 2 the Everything Can Code page's main paragraph will display as well as the logo from the footer of the webiste page.
 
-TODO: Delete this and the text above, and describe your gem
+
 
 ## Installation
 
@@ -22,7 +23,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+
 
 ## Development
 
